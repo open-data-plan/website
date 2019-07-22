@@ -8,4 +8,4 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b70f31ae-0305-49fe-ad54-d9172cf9d994/deploy-status)](https://app.netlify.com/sites/opd/deploys)
 
-`Open Data Plan` [website](https://open-data-plan.org)
+`Open Data Plan` [website](https://open-data-plan.com)
